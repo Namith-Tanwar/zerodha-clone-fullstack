@@ -7,7 +7,7 @@ const Hero = () => {
                 <h3>Support Portal</h3>
                 <a href="/" style={{ color: "white" }}>Track Tickets</a>
             </div>
-            <div className="row d-flex" id='supportWrapper' style={{paddingBottom:"40px", paddingRight:"75px"}}>
+            <div className="row d-flex" id='supportWrapper' style={{paddingBottom:"40px",}}>
                 <div className="col">
                     <h1 className='fs-5'>Search for an answer or browse help topics <br />
                         to create a ticket</h1>
